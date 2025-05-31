@@ -19,7 +19,7 @@ def result(a, b):
 a=int(input())
 b=int(input())
 print("modulo is", result(a, b))
-``
+```
 
 
 
